@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+ <html>
+<head>
+<meta charset="utf-8">
+<title> Module2-solution  </tittle>
+<style>
+h1 {text-align:center;
+}
+*{
+   box-sizing= box border;
+}
+h2 {
+box-sizing= box border;
+background-colour:blue;
+text-align = right; 
+}
+Section  {
+Border=1px solid black;
+Width=80%;
+height=500px;
+colour=white 
+}
+<body>
+  <h1> Our Menu </h1>
+  <section>
+    <h2> mango </h2>The site is designed as a place Bangladesh based students to find information about studying courses careers Though the site is mostly Bangladesh based there is significant international elements
+  </section>
+  <section>
+    <h2> Banana </h2> The site is designed as a place Bangladesh based students to find information about studying courses careers Though the site is mostly Bangladesh based there is significant international elements
+  </section>
+  <section>
+    <h2> potato </h2>The site is designed as a place Bangladesh based students to find information about studying courses careers Though the site is mostly Bangladesh based there is significant international elements
+  </section>
+</body>
+
+</html>
